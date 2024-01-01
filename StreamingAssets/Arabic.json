@@ -1,19 +1,28 @@
 {
     "items": [
       {
+        "key": "Language",
+        "value": "اللغة العربية"
+      },
+      {
+        "key": "LanguageTitle",
+        "value": "اختر اللغة"
+      },
+      {
+        "key": "Ok",
+        "value": "موافق"
+      },
+      {
         "key": "Instructions",
         "value": "تعليمات"
-      
       },
       {
         "key": "DataLog",
         "value": "تسجيل البيانات"
-      
       },
       {
         "key": "Restart",
         "value": "إعادة"
-      
       },
       {
         "key": "Welcome",

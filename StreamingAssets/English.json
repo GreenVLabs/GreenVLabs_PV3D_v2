@@ -1,19 +1,28 @@
 {
     "items": [
       {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "LanguageTitle",
+        "value": "Choose Language"
+      },
+      {
+        "key": "Ok",
+        "value": "Ok"
+      },
+      {
         "key": "Instructions",
         "value": "Instructions"
-      
       },
       {
         "key": "DataLog",
         "value": "Data Logging"
-      
       },
       {
         "key": "Restart",
         "value": "Restart"
-      
       },
       {
         "key": "Welcome",
