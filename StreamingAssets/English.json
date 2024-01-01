@@ -1,0 +1,35 @@
+{
+    "items": [
+      {
+        "key": "Instructions",
+        "value": "Instructions"
+      
+      },
+      {
+        "key": "DataLog",
+        "value": "Data Logging"
+      
+      },
+      {
+        "key": "Restart",
+        "value": "Restart"
+      
+      },
+      {
+        "key": "Welcome",
+        "value": "Welcome to our virtual lab for solar panel testing! We are delighted to have you with us and wish you an enriching and enjoyable learning experience. Explore, learn, and innovate."
+      },    
+      {
+        "key": "connect_solar_panels",
+        "value": "Connect the first solar panel to the second, and then the second solar panel to the third, so that all panels are connected in series"
+      },
+      {
+        "key": "connect_voltmeter",
+        "value": "Connect the positive pole of the voltmeter to the positive pole of the first solar panel and the negative pole to the negative pole of the third solar panel"
+      },
+      {
+        "key": "connect_components",
+        "value": "Connect each of the solar cells, the ammeter, and the variable resistor in series"
+      }
+    ]
+}
