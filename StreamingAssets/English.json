@@ -39,6 +39,14 @@
       {
         "key": "connect_components",
         "value": "Connect each of the solar cells, the ammeter, and the variable resistor in series"
+      },
+      {
+        "key": "Turn_PVLight_ON",
+        "value": "Turn on the light source"
+      },
+      {
+        "key": "Resistor_Change",
+        "value": "Change the resistor value and record the voltage and current values"
       }
     ]
 }
