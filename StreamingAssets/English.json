@@ -17,6 +17,10 @@
         "value": "Instructions"
       },
       {
+        "key": "Instructions_Text",
+        "value": "<b>Photovoltaic IV Characteristics</b>\n\n<b>Objective:</b> To investigate the IV (current-voltage) characteristics of three solar panels connected in series using a voltmeter and an ammeter.\n\n<b>Materials:</b>\n• Three identical solar panels\n• Voltmeter\n• Ammeter\n• Connecting wires\n• Light source (a high-intensity lamp)\n• Mounting stand or surface for the solar panels\n• Notebook for recording observations\n\n<i>Note:</i> This experiment can provide insight into the behavior of solar panels in series and is fundamental in understanding solar panel configurations in real-world applications."
+      },
+      {
         "key": "DataLog",
         "value": "Data Logging"
       },
