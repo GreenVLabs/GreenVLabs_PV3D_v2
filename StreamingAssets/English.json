@@ -13,12 +13,16 @@
         "value": "Ok"
       },
       {
-        "key": "Instructions",
-        "value": "Instructions"
+        "key": "Next",
+        "value": "Next"
       },
       {
-        "key": "Instructions_Text",
-        "value": "<b>Photovoltaic IV Characteristics</b>\n\n<b>Objective:</b> To investigate the IV (current-voltage) characteristics of three solar panels connected in series using a voltmeter and an ammeter.\n\n<b>Materials:</b>\n• Three identical solar panels\n• Voltmeter\n• Ammeter\n• Connecting wires\n• Light source (a high-intensity lamp)\n• Mounting stand or surface for the solar panels\n• Notebook for recording observations\n\n<i>Note:</i> This experiment can provide insight into the behavior of solar panels in series and is fundamental in understanding solar panel configurations in real-world applications."
+        "key": "CorrectAnswer",
+        "value": "Correct Answer!"
+      },
+      {
+        "key": "WrongAnswer",
+        "value": "Wrong Answer!"
       },
       {
         "key": "DataLog",
@@ -29,28 +33,40 @@
         "value": "Restart"
       },
       {
+        "key": "Instructions",
+        "value": "Instructions"
+      },
+      {
+        "key": "Instructions_Text",
+        "value": "<b>Photovoltaic IV Characteristics</b>\n\n<b>Objective:</b> To investigate the IV (current-voltage) characteristics of three solar panels connected in series using a voltmeter and an ammeter.\n\n<b>Materials:</b>\n• Three identical solar panels\n• Voltmeter\n• Ammeter\n• Connecting wires\n• Light source (a high-intensity lamp)\n• Mounting stand or surface for the solar panels\n• Notebook for recording observations\n\n<i>Note:</i> This experiment can provide insight into the behavior of solar panels in series and is fundamental in understanding solar panel configurations in real-world applications."
+      },
+      {
         "key": "Welcome",
         "value": "Welcome to our virtual lab for solar panel testing! We are delighted to have you with us and wish you an enriching and enjoyable learning experience. Explore, learn, and innovate."
-      },    
-      {
-        "key": "connect_solar_panels",
-        "value": "Connect the first solar panel to the second, and then the second solar panel to the third, so that all panels are connected in series"
       },
       {
-        "key": "connect_voltmeter",
-        "value": "Connect the positive pole of the voltmeter to the positive pole of the first solar panel and the negative pole to the negative pole of the third solar panel"
+        "key": "Question1",
+        "value": "<b>Q1:</b> What is the purpose of this experiment * To study the relationship between current and voltage in solar panels * To measure the intensity of light emitted by the sun * To investigate the properties of magnetic fields * To analyze the behavior of electrons in conductors * 1"
       },
       {
-        "key": "connect_components",
-        "value": "Connect each of the solar cells, the ammeter, and the variable resistor in series"
+        "key": "Instruction1",
+        "value": "<b>Step 1:</b> \nConnect the first solar panel to the second, and then the second solar panel to the third, so that all panels are connected in series"
       },
       {
-        "key": "Turn_PVLight_ON",
-        "value": "Turn on the light source"
+        "key": "Instruction2",
+        "value": "<b>Step 2:</b> \nConnect the positive pole of the voltmeter to the positive pole of the first solar panel and the negative pole to the negative pole of the third solar panel"
       },
       {
-        "key": "Resistor_Change",
-        "value": "Change the resistor value and record the voltage and current values"
+        "key": "Instruction3",
+        "value": "<b>Step 3:</b> \nConnect the solar cells, the ammeter, and the variable resistor in series"
+      },
+      {
+        "key": "Instruction4",
+        "value": "<b>Step 4:</b> \nTurn on the light source"
+      },
+      {
+        "key": "Instruction5",
+        "value": "<b>Step 5:</b> \nChange the resistor value and record the voltage and current values"
       }
     ]
 }
